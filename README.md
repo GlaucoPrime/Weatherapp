@@ -2,7 +2,7 @@
 
 Aplicativo Android nativo para consultar o clima de cidades de interesse, visualizar informações meteorológicas e organizar uma lista de cidades favoritas.
 
-> Projeto acadêmico de TADS — Segurança da Informação (2026.2). O repositório inclui uma análise preliminar de código; confira o relatório `docs/auditoria-codigo.md`.
+> Projeto acadêmico de TADS — Dispositivos Móveis. O repositório inclui uma análise preliminar de código.
 
 ## ✨ Funcionalidades
 
@@ -123,6 +123,6 @@ Projeto acadêmico em desenvolvimento/avaliação. A presença de uma funcionali
 
 ## 👤 Autoria
 
-**Estudante:** [preencher nome]  
+**Estudante:** [Glauco Vinícius Barbosa Telino]  
 **Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)  
-**Disciplina:** Segurança da Informação — 2026.2
+**Disciplina:** Dispositivos Móveis
